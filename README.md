@@ -1,8 +1,9 @@
 # smart_home_system
 
-A new Flutter application.
+A new Flutter application to control home appliences.Firebase is used as BaaS(Backend-as-a-Service).Firebase is the communication link between the app and the appliences.ESP8266 is used for the hardware control part.
+# Demo video
 
-## Getting Started
+# Screenshots
 
 This project is a starting point for a Flutter application.
 
